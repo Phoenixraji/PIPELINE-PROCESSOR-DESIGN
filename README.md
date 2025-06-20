@@ -63,3 +63,4 @@ Using this tool, the processor's internal data flow across the four stages was s
 This task deepened understanding of pipelined architecture, a fundamental concept in modern processors. By dividing execution into stages and using registers between stages, instructions were able to execute in parallel, improving throughput. The hands-on simulation and waveform analysis helped visualize instruction flow and reinforced the importance of pipeline control and timing in digital system design.
 
 **OUTPUT**
+![Image](https://github.com/user-attachments/assets/453e3711-09c8-41ae-8f80-9f36e00a9030)[](url)
